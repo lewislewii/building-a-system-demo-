@@ -31,7 +31,7 @@ export default function Header() {
                     <PanelBottomClose className='w-4 h-4 '/>
                     </button>
                 </div>
-                
+                {/* yryiryury.yu.ry */}
             </div>
         </div>
     );
