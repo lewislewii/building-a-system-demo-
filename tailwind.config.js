@@ -7,7 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-
+      backgroundImage: {
+        'back-image': "url('/back.jpg')"
+      }
     },
   },
   plugins: [require('@tailwindcss/forms') ],
